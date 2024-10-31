@@ -6,8 +6,8 @@
 using json = nlohmann::json;
 using namespace std;
 
-const string CLIENT_ID = "VjEXuWb4";
-const string CLIENT_SECRET = "VM3gwwimnVLT18qdlSxnUxaoWBfDnDwDb170vMWf2TE";
+const string CLIENT_ID = "CLIENT_ID";
+const string CLIENT_SECRET = "CLIENT_SECRET";
 
 string accessToken;
 
